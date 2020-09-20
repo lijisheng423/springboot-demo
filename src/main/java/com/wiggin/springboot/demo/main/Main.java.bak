@@ -19,7 +19,7 @@ import org.springframework.context.annotation.ComponentScan;
 @ComponentScan("com.wiggin.springboot.demo.*")
 public class Main {
     public static void main(String[] args) {
-		"对代码进行了修改!"
+		"中文乱码问题!"
         SpringApplication.run(Main.class);
     }
 }
