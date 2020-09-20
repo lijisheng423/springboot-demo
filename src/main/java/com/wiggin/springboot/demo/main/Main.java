@@ -19,7 +19,7 @@ import org.springframework.context.annotation.ComponentScan;
 @ComponentScan("com.wiggin.springboot.demo.*")
 public class Main {
     public static void main(String[] args) {
-		"中文乱码问题第二版!"
+		"中文乱码问题第三版!"
         SpringApplication.run(Main.class);
     }
 }
